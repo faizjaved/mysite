@@ -1,0 +1,8 @@
+body {
+    background-color: aqua;
+    /*background: white url("images/album-background-blank-1089842.jpg") no-repeat;*/
+}
+
+li a {
+    color: green;
+}
