@@ -21,7 +21,7 @@
     ```python
     python manage.py createsuperuser
     ```
-5. Run django server and login in admin site as superuser and add few questions and choices under polls 
+5. Run django server and go to admin site url. Add few questions and choices under polls.
 ## frontend
 
 ### Project setup
